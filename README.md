@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Ailyth99/Ailyth99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![chimi.svg](https://raw.githubusercontent.com/Ailyth99/Ailyth99/refs/heads/main/chimi.svg)
