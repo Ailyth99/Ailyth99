@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![chimi.svg](https://raw.githubusercontent.com/Ailyth99/Ailyth99/refs/heads/main/chimi.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ailyth99/Ailyth99/refs/heads/main/chimi.svg" alt="chimi.svg">
+</div>
