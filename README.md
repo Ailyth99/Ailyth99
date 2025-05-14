@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ailyth99/Ailyth99/refs/heads/main/chimi.svg" alt="chimi.svg" width="820">
+  <img src="https://raw.githubusercontent.com/Ailyth99/Ailyth99/refs/heads/main/chimi.svg" alt="chimi.svg" width="720">
 </div>
